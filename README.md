@@ -18,6 +18,7 @@ goal is to generate new names based on names dataset using DL.
   - batchnorm
   - kaiming initialization
   - activations analysis
+  - learning rate decay
 - pytorch l3: more pytorch-native simplifications
   - gradient distributions
   - weights distribution
